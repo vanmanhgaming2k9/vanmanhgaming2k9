@@ -15,7 +15,7 @@
 
 <!-- Trophy Fake Rank SSS+ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true" alt="Trophy SSS+" style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #f79c42);" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true" alt="Trophy SSS" style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #f79c42);" />
 </p>
 
 <!-- Thông tin cá nhân -->
