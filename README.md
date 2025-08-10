@@ -78,7 +78,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanmanhgaming2k9/vanmanhgaming2k9/output/github-contribution-grid-snake.svg" alt="Snake animation" style="animation: pulse 2s infinite;" />
-</p>
+
