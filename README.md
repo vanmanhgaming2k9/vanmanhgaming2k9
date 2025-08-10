@@ -8,16 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=4000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=K%E1%BA%BB+C%C3%B4+%C4%90%C6%A1n+Ko+Bi%E1%BA%BFt+Code+=))" alt="Rainbow text" />
 </h3>
 
-<p align="left">
+<!-- Lượt xem profile -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Profile%20views&color=0e75b6&style=flat" alt="vanmanhgaming2k9" />
 </p>
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&rank=S&theme=aura" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&rank=S&theme=aura" alt="vanmanhgaming2k9" />
-  </a>
+<!-- Trophy Fake Rank SSS+ -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true" alt="Trophy SSS+" style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #f79c42);" />
 </p>
 
+<!-- Thông tin cá nhân -->
 - 🔭 Hiện tại tôi đang làm việc trên **GitHub**  
 - 🌱 Hiện tại tôi đang học **Ko Tiết kiệm Lộ Nha=))**  
 - 👯 Tôi đang tìm kiếm sự hợp tác **GitHub**  
@@ -32,7 +33,7 @@
 ---
 
 ### 🌐 Kết nối với Tôi:
-<p align="left">
+<p align="center">
   <a href="https://fb.com/bong.toi.11022010" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" />
   </a>
@@ -44,7 +45,7 @@
 ---
 
 ### 🛠️ Ngôn ngữ và Công cụ:
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></a>
   <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /></a>
@@ -68,14 +69,22 @@
 ---
 
 ### 📊 Thống kê GitHub:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanmanhgaming2k9&show_icons=true&locale=en&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanmanhgaming2k9&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&locale=en&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&locale=en&theme=radical" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=radical" />
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.9; }
+  100% { transform: scale(1); opacity: 1; }
+}
+</style>
