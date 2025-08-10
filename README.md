@@ -1,61 +1,111 @@
-<!-- Tiêu đề chính với hiệu ứng gradient động -->
-<h1 align="center" style="margin-bottom:0; font-size: 42px; font-weight: bold; background: linear-gradient(270deg,#ff6a00,#ff2e63,#00c6ff,#f79c42); background-size: 800% 800%; -webkit-background-clip: text; color: transparent; animation: gradientFlow 8s ease infinite;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F79C42&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o+%F0%9F%91%8B%2C+t%C3%B4i+l%C3%A0+vanmanhgaming" alt="Typing SVG" />
+<!-- Tiêu đề gõ chữ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79C42&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o+%F0%9F%91%8B%2C+t%C3%B4i+l%C3%A0+vanmanhgaming" alt="Typing SVG" style="animation: pulse 2s infinite;" />
 </h1>
 
-<!-- Tiêu đề phụ với hiệu ứng neon -->
-<h3 align="center" style="margin-top:4px; margin-bottom:20px; font-family: Pacifico; font-size: 28px; color:#fff; text-shadow: 0 0 8px #ff0080, 0 0 20px #ff0080, 0 0 40px #ff0080;">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=500&color=FF0080&center=true&vCenter=true&width=600&lines=K%E1%BA%BB+C%C3%B4+%C4%90%C6%A1n+Ko+Bi%E1%BA%BFt+Code+=))" alt="Rainbow text" />
+<!-- Tiêu đề phụ cầu vồng -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=4000&pause=500&color=FF0000&center=true&vCenter=true&multicolor=true&width=500&lines=K%E1%BA%BB+C%C3%B4+%C4%90%C6%A1n+Ko+Bi%E1%BA%BFt+Code+=))" alt="Rainbow text" style="animation: glow 3s infinite alternate;" />
 </h3>
 
 <!-- Lượt xem profile -->
-<p align="center" style="margin:0 0 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Profile%20views&color=ff6a00&style=for-the-badge" alt="vanmanhgaming2k9" style="box-shadow:0 0 15px #ff6a00aa; border-radius:8px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Profile%20views&color=0e75b6&style=flat" alt="vanmanhgaming2k9" style="animation: pulse 2s infinite;" />
 </p>
 
-<!-- Rank SSS+ Glow -->
-<p align="center" style="margin-bottom:30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=radical&column=7&no-frame=true"
-    alt="Rank SSS+"
-    style="animation: pulseGlow 3s ease-in-out infinite; max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 0 25px #ff6a00cc; transition: transform 0.4s ease; cursor: pointer;"
-    onmouseover="this.style.transform='scale(1.1)'"
-    onmouseout="this.style.transform='scale(1)'" />
+<!-- Trophy Fake Rank SSS+ với phiên bản nâng cấp hiển thị tất cả secret trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SECRET" alt="rank= SSS+" style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #f79c42);" />
 </p>
 
 <!-- Thông tin cá nhân -->
-<ul style="max-width: 700px; margin: auto; font-size: 18px; line-height: 1.7; color: #ddd; list-style: none; padding: 0;">
-  <li>🔭 Hiện tại tôi đang làm việc trên <strong>GitHub</strong></li>
-  <li>🌱 Hiện tại tôi đang học <strong>Không Tiết kiệm Lộ Nha=))</strong></li>
-  <li>👯 Tôi đang tìm kiếm sự hợp tác <strong>GitHub</strong></li>
-  <li>🤝 Tôi đang tìm kiếm sự trợ giúp với <strong>GitHub</strong></li>
-  <li>👨‍💻 Tất cả các dự án của tôi tại <a href="https://github.com/vanmanhgaming2k9" target="_blank" style="color:#f79c42;">github.com/vanmanhgaming2k9</a></li>
-  <li>📝 Tôi thường viết tại <a href="https://github.com/vanmanhgaming2k9" target="_blank" style="color:#f79c42;">github.com/vanmanhgaming2k9</a></li>
-  <li>💬 Hỏi tôi về <strong>Gì Cũng Được Nếu Biết=)))</strong></li>
-  <li>📫 Liên lạc: <strong>vanmanhgaming1102@gmail.com</strong></li>
-  <li>📄 Kinh nghiệm tại <a href="https://github.com/vanmanhgaming2k9" target="_blank" style="color:#f79c42;">GitHub</a></li>
-  <li>⚡ Fun fact: <strong>Không Biết Gì=)))</strong></li>
-</ul>
+- 🔭 Hiện tại tôi đang làm việc trên **GitHub**  
+- 🌱 Hiện tại tôi đang học **Không Tiết Lộ Nha =))**  
+- 👯 Tôi đang tìm kiếm sự hợp tác trên **GitHub**  
+- 🤝 Tôi đang tìm kiếm sự trợ giúp với **GitHub**  
+- 👨‍💻 Tất cả các dự án của tôi đều có sẵn tại [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
+- 📝 Tôi thường xuyên viết bài về [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
+- 💬 Hỏi tôi về **Gì Cũng Được Nếu Biết =))**  
+- 📫 Cách liên lạc với tôi **vanmanhgaming1102@gmail.com**  
+- 📄 Tìm hiểu về kinh nghiệm của tôi [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
+- ⚡ Sự thật thú vị **Không Biết Gì =))**  
 
-<hr style="max-width:700px; margin: 30px auto; border: 0; border-top: 2px dashed #f79c42cc;"/>
+---
 
-<!-- Kết nối -->
-<h3 style="text-align:center; color:#f79c42; margin-bottom: 10px;">🌐 Kết nối với Tôi</h3>
+### 🌐 Kết nối với Tôi:
 <p align="center">
-  <a href="https://fb.com/bong.toi.11022010" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="35" style="box-shadow:0 0 10px #1877F2;" /></a>
-  <a href="https://www.youtube.com/@vanmanhgaming" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="35" style="box-shadow:0 0 10px #FF0000;" /></a>
+  <a href="https://fb.com/bong.toi.11022010" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" style="margin: 5px; animation: fadeIn 1s ease-in;" />
+  </a>
+  <a href="https://www.youtube.com/@vanmanhgaming" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="30" style="margin: 5px; animation: fadeIn 1s ease-in;" />
+  </a>
 </p>
 
-<hr style="max-width:700px; margin: 30px auto; border: 0; border-top: 2px dashed #f79c42cc;"/>
+---
 
-<!-- Stats -->
-<h3 style="text-align:center; color:#f79c42;">📊 Thống kê GitHub</h3>
+### 🛠️ Ngôn ngữ và Công cụ:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanmanhgaming2k9&show_icons=true&layout=compact&theme=tokyonight" style="border-radius:12px; box-shadow:0 0 20px #00c6ff;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&theme=tokyonight" style="border-radius:12px; box-shadow:0 0 20px #ff6a00;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=tokyonight" style="border-radius:12px; box-shadow:0 0 20px #ff2e63;" />
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin: 5px; animation: zoomIn 1s ease-in;" /></a>
 </p>
 
+---
+
+### 📊 Thống kê GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanmanhgaming2k9&show_icons=true&locale=en&layout=compact&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&locale=en&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vanmanhgaming2k9/vanmanhgaming2k9/output/github-contribution-grid-snake.svg" alt="Snake animation" style="animation: pulse 2s infinite;" />
+</p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.9; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes glow {
+  0% { filter: drop-shadow(0 0 5px #FF0000); }
+  50% { filter: drop-shadow(0 0 10px #00FF00); }
+  100% { filter: drop-shadow(0 0 5px #0000FF); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.5); }
+  to { transform: scale(1); }
+}
+</style>
