@@ -24,10 +24,16 @@
 
 <h3 align="left">Kết nối với Tôi:</h3>
 <p align="left">
+  <!-- Facebook -->
   <a href="https://fb.com/bong.toi.11022010" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@vanmanhgaming" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
 <p align="left">
