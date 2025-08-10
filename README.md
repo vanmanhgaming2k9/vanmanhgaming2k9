@@ -59,17 +59,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=tokyonight" style="border-radius:12px; box-shadow:0 0 20px #ff2e63;" />
 </p>
 
-<style>
-@keyframes pulseGlow {
-  0%, 100% { transform: scale(1); filter: drop-shadow(0 0 15px #ff6a00); }
-  50% { transform: scale(1.05); filter: drop-shadow(0 0 30px #ff2e63); }
-}
-@keyframes gradientFlow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-ul li { transition: transform 0.3s ease, color 0.3s ease; }
-ul li:hover { color: #f79c42; transform: translateX(5px); }
-a:hover { text-decoration: underline; }
-</style>
