@@ -13,8 +13,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura" alt="vanmanhgaming2k9" />
+  <a href="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura&rank=SSS+" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=aura&rank=SSS+" alt="vanmanhgaming2k9" />
   </a>
 </p>
 
