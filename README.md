@@ -1,21 +1,37 @@
 <!-- Tiêu đề gõ chữ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79C42&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o+%F0%9F%91%8B%2C+t%C3%B4i+l%C3%A0+vanmanhgaming" alt="Typing SVG" style="animation: pulse 2s infinite;" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79C42&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o+%F0%9F%91%8B%2C+t%C3%B4i+l%C3%A0+vanmanhgaming" 
+    alt="Typing SVG" 
+    style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
+  />
 </h1>
 
-<!-- Tiêu đề phụ cầu vồng -->
+<!-- Tiêu đề phụ -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=4000&pause=500&color=FF0000&center=true&vCenter=true&multicolor=true&width=500&lines=K%E1%BA%BB+C%C3%B4+%C4%90%C6%A1n+Ko+Bi%E1%BA%BFt+Code+=))" alt="Rainbow text" style="animation: glow 3s infinite alternate;" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=4000&pause=500&color=F79C42&center=true&vCenter=true&width=500&lines=K%E1%BA%BB+C%C3%B4+%C4%90%C6%A1n+Ko+Bi%E1%BA%BFt+Code+=))" 
+    alt="Subtitle" 
+    style="animation: glow 3s infinite alternate; filter: drop-shadow(0px 0px 8px #F79C42);" 
+  />
 </h3>
 
 <!-- Lượt xem profile -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Profile%20views&color=0e75b6&style=flat" alt="vanmanhgaming2k9" style="animation: pulse 2s infinite;" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile&color=F79C42&style=flat-square" 
+    alt="vanmanhgaming2k9" 
+    style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
+  />
 </p>
 
-<!-- Trophy Fake Rank SSS+ với phiên bản nâng cấp hiển thị tất cả secret trophies -->
+<!-- Trophy Rank SSS+ -->
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SECRET" alt="rank= SSS+" style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #f79c42);" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=darkhub&column=7&no-frame=true&rank=SECRET" 
+    alt="Trophy Rank SSS+" 
+    style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 12px #F79C42);" 
+  />
 </p>
 
 <!-- Thông tin cá nhân -->
