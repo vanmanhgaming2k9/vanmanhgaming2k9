@@ -30,9 +30,10 @@
   <img 
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SSS+" 
     alt="Rank SSS+" 
-    style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 12px #F79C42);" 
+    style="filter: drop-shadow(0 0 10px #F79C42); animation: pulse 2s infinite;" 
   />
 </p>
+
 
 
 <!-- Thông tin cá nhân -->
