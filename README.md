@@ -25,14 +25,14 @@
   />
 </p>
 
-<!-- Trophy Fake Rank SSS+ -->
 <p align="center">
   <img 
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SSS+" 
     alt="Rank SSS+" 
-    style="filter: drop-shadow(0 0 10px #F79C42); animation: pulse 2s infinite;" 
+    style="filter: drop-shadow(0 0 12px #F79C42); animation: pulse 2s infinite;" 
   />
 </p>
+
 
 
 
