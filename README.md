@@ -17,13 +17,13 @@
 </h3>
 
 <!-- Lượt xem hồ sơ -->
-<div style="text-align:center; margin: 20px 0;">
+<p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Hồ%20Sơ&color=F79C42&style=flat-square" 
-    alt="Lượt xem hồ sơ vanmanhgaming2k9" 
-    style="animation: pulse 2s infinite; filter: drop-shadow(0 0 8px #F79C42); border-radius: 8px; box-shadow: 0 0 15px #F79C42;"
+    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile&color=F79C42&style=flat-square" 
+    alt="vanmanhgaming2k9" 
+    style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
   />
-</div>
+</p>
 
 <!-- Danh hiệu SSS+ với hiệu ứng neon -->
 <div class="text-center mt-8">
