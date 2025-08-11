@@ -80,14 +80,6 @@
   style="margin: 10px;" 
 />
 
-<!-- Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
-  alt="GitHub Streak" 
-  height="180" 
-  style="margin: 10px;" 
-/>
-
 <!-- Top Languages -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgaming2k9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF" 
@@ -108,6 +100,14 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=vanmanhgaming2k9&bg_color=0D1117&color=F79C42&line=F79C42&point=FFFFFF&area=true&hide_border=true" 
   alt="Contribution Graph" 
   style="margin: 10px; width: 90%;" 
+/>
+
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
+  alt="GitHub Streak" 
+  height="180" 
+  style="margin: 10px;" 
 />
 
 </div>
