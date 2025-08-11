@@ -25,11 +25,10 @@
   />
 </p>
 
-<!-- Trophy S với hiệu ứng neon glow -->
+<!-- Trophy SSS+ với hiệu ứng neon glow -->
 <div class="text-center mt-8">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=dark&rank=S&column=8&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow" />
-</div>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow" />
+</div
 
 <!-- Thông tin cá nhân -->
 - 🔭 Hiện tại tôi đang làm việc trên **GitHub**  
