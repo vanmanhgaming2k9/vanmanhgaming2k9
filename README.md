@@ -68,40 +68,46 @@
 
 ---
 
-## 📊 Thống kê GitHub:
+## 📊 Thống kê GitHub
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
-  <!-- Thống kê chung -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42&text_color=FFFFFF" 
-    alt="GitHub Stats" 
-    height="180"
-    style="margin: 10px; animation: fadeIn 1.5s ease-in;" 
-  />
+<!-- Thống kê chung -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42&text_color=FFFFFF" 
+  alt="GitHub Stats" 
+  height="180" 
+  style="margin: 10px;" 
+/>
 
-  <!-- Chuỗi streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
-    alt="GitHub Streak" 
-    height="180"
-    style="margin: 10px; animation: fadeIn 2s ease-in;" 
-  />
+<!-- Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
+  alt="GitHub Streak" 
+  height="180" 
+  style="margin: 10px;" 
+/>
 
-  <!-- Biểu đồ ngôn ngữ -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgaming2k9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF" 
-    alt="Top Languages" 
-    height="180"
-    style="margin: 10px; animation: fadeIn 2.5s ease-in;" 
-  />
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgaming2k9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF" 
+  alt="Top Languages" 
+  height="180" 
+  style="margin: 10px;" 
+/>
+
+<!-- Thẻ tổng hợp -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanmanhgaming2k9&theme=radical" 
+  alt="Profile Details" 
+  style="margin: 10px; width: 90%;" 
+/>
+
+<!-- Biểu đồ đóng góp -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vanmanhgaming2k9&bg_color=0D1117&color=F79C42&line=F79C42&point=FFFFFF&area=true&hide_border=true" 
+  alt="Contribution Graph" 
+  style="margin: 10px; width: 90%;" 
+/>
 
 </div>
-
-<!-- Hiệu ứng fadeIn -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
