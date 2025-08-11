@@ -19,7 +19,7 @@
 <!-- Lượt xem hồ sơ -->
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile&color=F79C42&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile:&color=F79C42&style=flat-square" 
     alt="vanmanhgaming2k9" 
     style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
   />
