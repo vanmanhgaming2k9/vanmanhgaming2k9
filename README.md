@@ -82,7 +82,7 @@
 
 <!-- Streak -->
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
+  src="https://streak-stats.demolab.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
   alt="GitHub Streak" 
   height="180" 
   style="margin: 10px;" 
