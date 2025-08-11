@@ -68,14 +68,33 @@
 
 ---
 
-### 📊 Thống kê GitHub:
+## 📊 Thống kê GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&locale=en&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
-</p>
+<div align="center" style="margin-top: 20px;">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanmanhgaming2k9&theme=radical" style="margin: 10px; animation: fadeIn 2s ease-in;" />
-</p>
+  <!-- Thống kê chung -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42" 
+    alt="GitHub Stats" 
+    height="180"
+    style="margin: 10px; animation: fadeIn 2s ease-in;" 
+  />
 
+  <!-- Chuỗi streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42" 
+    alt="GitHub Streak" 
+    height="180"
+    style="margin: 10px; animation: fadeIn 2s ease-in;" 
+  />
+
+</div>
+
+<!-- Hiệu ứng fadeIn -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
