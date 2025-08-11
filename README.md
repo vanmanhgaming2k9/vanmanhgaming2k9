@@ -25,14 +25,15 @@
   />
 </p>
 
-<!-- Trophy Rank SSS+ -->
+<!-- Trophy Fake Rank SSS+ -->
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=darkhub&column=7&no-frame=true&rank=SECRET" 
-    alt="Trophy Rank SSS+" 
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SSS+" 
+    alt="Rank SSS+" 
     style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 12px #F79C42);" 
   />
 </p>
+
 
 <!-- Thông tin cá nhân -->
 - 🔭 Hiện tại tôi đang làm việc trên **GitHub**  
