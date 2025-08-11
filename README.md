@@ -25,16 +25,10 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.screw-hand.vercel.app/?username=vanmanhgaming2k9&theme=aura&column=7&no-frame=true&wantAll=true&rank=SSS+" 
-    alt="Rank SSS+" 
-    style="filter: drop-shadow(0 0 12px #F79C42); animation: pulse 2s infinite;" 
-  />
-</p>
-
-
-
+<!-- Trophy SSS+ với hiệu ứng neon glow -->
+<div class="text-center mt-8">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow" />
+</div
 
 <!-- Thông tin cá nhân -->
 - 🔭 Hiện tại tôi đang làm việc trên **GitHub**  
